@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning Web development
 - ⚡ Fun fact: no fun facts, get back to work.
 <hr>
-<img alt="Artur's github stats" src="https://github-readme-stats.vercel.app/api?username=artur-sg&count_private=true&show_icons=true&title_color=ffffff&icon_color=ffffff&text_color=ffffff&bg_color=eee">
+<img alt="Artur's github stats" src="https://github-readme-stats.vercel.app/api?username=artur-sg&count_private=true&show_icons=true&title_color=333&icon_color=333&text_color=333&bg_color=ffff">
 <img alt="Artur's top-langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=artur-sg&layout=compact">
 <hr>
  <a href="https://github.com/Artur-Sg">
