@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning Web development
 - ⚡ Fun fact: no fun facts, get back to work.
 
-</hr>
+<hr>
 
  <a href="https://github.com/Artur-Sg">
     <img align="left" alt="Artur's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg"/>
