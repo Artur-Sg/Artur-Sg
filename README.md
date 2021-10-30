@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+<hr>
 - 🔭 I’m currently working on Thumbtack(Lineate)
 - 🌱 I’m currently learning Web development
 - ⚡ Fun fact: no fun facts, get back to work.
