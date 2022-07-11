@@ -1,9 +1,5 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on Thumbtack(Lineate)
-- 🌱 I’m currently learning Web development
-- ⚡ Fun fact: no fun facts, get back to work.
-
 <hr>
 
  <a href="https://github.com/Artur-Sg">
